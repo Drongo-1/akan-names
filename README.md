@@ -10,7 +10,7 @@ AKAN NAMING SYSTEM.
 It is a website that show the names of Ghanas people which is a major naming system in Ghana
 
 # Screenshot
-<image src="https://github.com/Drongo-1/akan-names/blob/master/images/akan screenshot.png?raw=true" width="1000">
+<image src="https://github.com/Drongo-1/akan-names/blob/master/images/akan screenshot.png?raw=true" width="800">
   
 # Technologies Used
 HTML5
