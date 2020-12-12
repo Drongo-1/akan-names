@@ -25,7 +25,7 @@ function computation(){
                        for(i; i<=6;i++){
                            if(i==Math.floor(dayOfWeek)){
                             alert("Your akan name is "+maleNames[i]);
-                            location.href="../index.html"
+                            location.reload();
         
                            }
                        }                    
@@ -35,7 +35,7 @@ function computation(){
                 for(i=0; i<=6;i++){
                     if(i==Math.floor(dayOfWeek)){
                      alert("Your akan name is "+FemaleNames[i]);
-                     location.href="https://drongo-1.github.io/akan-names/";
+                     location.reload();
 
         
                     }
