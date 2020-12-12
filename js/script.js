@@ -29,7 +29,7 @@ function computation(){
                            }
                        }                    
             }
-            
+              
             else{
                 for(i=0; i<=6;i++){
                     if(i==Math.floor(dayOfWeek)){
