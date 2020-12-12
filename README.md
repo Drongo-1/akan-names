@@ -1,33 +1,33 @@
-##Title:
+#Title:
 AKAN NAMING SYSTEM.
 
 
-##Author
+#Author
 [Ngugi david](https://github.com/Drongo-1)
 
 
-##Description
+#Description
 It is a website that show the names of Ghanas people which is a major naming system in Ghana
 
-##Technologies Used
+#Technologies Used
 HTML5
 CSS
 Javascript
 Bootstrap 4
 
-##Set-up and Installation
+#Set-up and Installation
 git Clone https://github.com/Drongo-1/akan-names.git
 Extract The file
 Cd into Akan-names folder
 Open index.html on any browser
 
-##Live Link
+#Live Link
 
-##Bugs
+#Bugs
 No known Bugs
 
-##Collaborations
+#Collaborations
 To collaborate, Contact [Ngugidavid](ngugidavid46@gmail.com)
 
-##Licence
+#Licence
 MIT Licence
