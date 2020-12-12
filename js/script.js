@@ -46,4 +46,6 @@ function computation(){
     else{
         alert("Invalid day entered");
     }
+
+    location.href="index.html";
 }
