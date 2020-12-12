@@ -3,7 +3,7 @@ function computation(){
     // arrays declaration
     let maleNames=["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
     let FemaleNames=["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
-    
+     
     // variables declaration
     let day=parseInt(document.getElementById('day').value);
     let month=parseInt(document.getElementById('month').value);
