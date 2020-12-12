@@ -44,4 +44,4 @@ phone:+254798305620
 To collaborate, Contact [Ngugidavid](ngugidavid46@gmail.com)
 
 # Licence
-[MIT Licence](https://github.com/Drongo-1/akan-names/edit/master/LICENCE)
+[MIT Licence](https://github.com/Drongo-1/akan-names/blob/master/LICENSE)
