@@ -47,5 +47,5 @@ function computation(){
         alert("Invalid day entered");
     }
 
-    location.href="index.html";
+    header.location.href="https://drongo-1.github.io/akan-names/";
 }
