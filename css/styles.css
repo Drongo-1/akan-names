@@ -74,3 +74,32 @@ footer{
     margin-right: 23%;
     margin-top: 2%;
 }
+
+@media (max-width:900px){
+    .a1{
+        width: 100%;
+        text-align: center;
+        margin-left: 0;
+        float: left;
+
+    }
+    .a2{
+        width: 100%;
+        text-align: center;
+        float: left;
+        margin-left: 0;
+    }
+    .form-container , .container, .wrapper{
+        width: 100%;
+        margin-left: 0;
+
+    }
+    .form-container input {
+        width: 80%;
+        margin-left: 10%;
+    }
+    .form-container #submit{
+        margin-left: 35%;
+        width: 30% !important;
+    }
+}
