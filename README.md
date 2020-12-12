@@ -33,8 +33,9 @@ Open index.html on any browser
 # Live Link
 https://drongo-1.github.io/akan-names/
 
-# Bugs
-No known Bugs
+# Known Bugs
+isues about this project are correctly solved and codes easy to understand
+
 
 # Support and contact details
 email:ngugidavid46@gmail.com
