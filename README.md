@@ -31,6 +31,7 @@ Cd into Akan-names folder
 Open index.html on any browser
 
 # Live Link
+https://drongo-1.github.io/akan-names/
 
 # Bugs
 No known Bugs
