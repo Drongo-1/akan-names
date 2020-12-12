@@ -16,7 +16,6 @@ function computation(){
 
     let century=Math.ceil((fullyear)/100)-1;
     // computation
-    
     let dayOfWeek=((((century/4)-2*century-1)+((5*year/4))+((26*(month+1)/10))+day)%7);
     // validation
     if(day>0&&day<32){
