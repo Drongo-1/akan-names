@@ -1,1 +1,179 @@
-cs
+*{
+    padding:0;
+    margin:0;
+    color: black;
+}
+.h1 h1{
+    text-align: center;
+    margin-top: 15px;
+}
+.h11 h1{
+    text-align: center !important;
+    margin-top: 15px !important;
+    font-size: 23px;
+}
+.h1,.h11{
+    box-shadow: 3px 3px 3px rgb(58, 184, 184);
+    background-color: rgb(58, 184, 184);
+    margin-top: -20px;
+    padding: 20px;
+    position: sticky !important;
+}
+.h11 button{
+    margin-top: -30px;
+    float: right;
+    padding: 2px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.h11 button a{
+    text-decoration: none;
+    color: black;
+}
+.h11 button a:hover{
+    opacity: 0.2;
+}
+body{
+    opacity: 1.1;
+    background-color: rgb(6, 129, 129);
+}
+.wrapper{
+    background-color: rgb(6, 129, 129);
+    height: 700px;
+
+}
+.exp{
+    width: 70%;
+    text-align: center;
+    margin-left: 210px;
+    margin-top: 20px;
+}
+.exp p{
+    margin-top: 10px;
+}
+.exp img{
+    width: 70%;
+    height: 300px;
+}
+.exp1{
+    margin-top: 30px;
+    margin-left: 43%;
+    margin-bottom: 20px;
+}
+.exp1 button a{
+    /* width: 100px; */
+    height: 30px;
+    text-decoration: none;
+}
+button a:hover{
+    opacity: 0.4;
+}
+.navi img{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    float:center;
+    margin-left:46%;
+    margin-top: 3%;
+}
+.navi h3{
+    text-align:center;
+    font-size: 36px;
+    font-family: cursive;
+}
+.navi p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+.about h4{
+    text-align: center;
+    margin-top: 3%;
+    font-weight: bold;
+    font-size: 26px;
+}
+.about p{
+    text-align: center;
+    font-style: italic;
+}
+.form-container{
+    width: 40%;
+    margin-left:30%;
+    margin-top: 3%;
+    margin-bottom: 3%;  
+    font-style: italic;
+    border: .4px solid  rgb(6, 129, 129));
+}
+.form-container p{
+    padding-top: 3px;
+}
+.form-container h3{
+    text-align: center;
+}
+#day, #month, #year{
+    width: 40%;
+    margin-left: 30%;
+}
+.form-container input, .form-container select{
+    line-height: 20px;
+    margin-left: 30%;
+}
+#submit {
+    width: 30%;
+    left: 35% !important;
+    background: rgb(201, 184, 184);
+    border-radius: 5px;
+    margin-bottom: 5%;
+
+}
+footer{
+    font-size: 20px;
+    font-style: italic;
+    background-color: rgb(58, 184, 184);
+    padding: 40px;
+    box-shadow: 5px 5px 5px 5px rgb(58, 184, 184);
+}
+footer h4{
+    margin-top: -15px;
+    font-weight: bolder;
+}
+.a1{
+    float: left;
+    margin-left: 20%;
+}
+.a2{
+    float:right;
+    margin-right: 23%;
+}
+
+@media (max-width:900px){
+    .a1{
+        width: 100%;
+        text-align: center;
+        margin-left: 0;
+        float: left;
+
+    }
+    .a2{
+        width: 100%;
+        text-align: center;
+        float: left;
+        margin-left: 0;
+    }
+    .form-container , .container, .wrapper{
+        width: 100%;
+        margin-left: 0;
+
+    }
+    .form-container input {
+        width: 80%;
+        margin-left: 10%;
+    }
+    .form-container #submit{
+        margin-left: 35%;
+        width: 30% !important;
+    }
+}
