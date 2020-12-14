@@ -187,4 +187,22 @@ footer h4{
         margin-left: 35%;
         width: 30% !important;
     }
+    .exp,exp1{
+        margin-left: 0% !important;
+        width: 100%;
+    }
+    table{
+        width: 100%;
+        margin-left: 0%;
+        padding: 0%;
+    }
+    nav{
+        width: 100%;
+    }
+    footer{
+        width: 100%;
+    }
+    .a2{
+        margin-top: 0.2%;
+    }
 }
